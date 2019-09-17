@@ -2,7 +2,7 @@
 #include <math.h>
 int main()
 {
-    float a,b,c,d,x1,x1;
+    float a,b,c,d,x1,x2;
     scanf("%f%f%f",&a,&b,&c);
     d=b*b-4*a*c;
     if (d>=0)
